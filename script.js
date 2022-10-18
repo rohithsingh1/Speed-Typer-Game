@@ -11,7 +11,7 @@ const difficultySelect = document.getElementById("difficulty");
 // program to generate random strings
 
 // declare all characters
-const characters ='abcdefghijklmnopqrstuvwxyz';
+const characters ='abcdefghjklmnopqrstuvwxyz';
 
 function generateString(length) {
     let result = '';
